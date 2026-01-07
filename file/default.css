@@ -89,8 +89,8 @@ a {
 
 .photo-card{
   position: right;
-  width: 240px;
-  height: 320px;
+  width: 120px;
+  height: 160px;
   /*margin:  0px auto -250px auto; /* center + spacing */
   border-radius: 18px;
   overflow: hidden;
